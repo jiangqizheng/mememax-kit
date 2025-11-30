@@ -1,0 +1,22 @@
+{
+  "name": "mememax-kit",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "tsx index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.22.0",
+  "dependencies": {
+    "@wagmi/core": "^3.0.0",
+    "dotenv": "^17.2.3",
+    "viem": "^2.39.3"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.3.7",
+    "@types/node": "^24.10.1",
+    "tsx": "^4.20.6"
+  }
+}
